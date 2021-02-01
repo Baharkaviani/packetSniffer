@@ -1,0 +1,35 @@
+Number of captured packets: 1633
+Number of ICMP packets: 0
+Number of TCP packets: 1366
+Number of UDP packets: 267
+Number of HTTP packets: 16
+IP source addresses in descending order: 
+192.168.1.102: 942
+82.99.218.181: 148
+216.58.209.132: 130
+216.58.210.78: 60
+216.58.209.131: 41
+172.217.18.138: 39
+162.125.69.13: 37
+104.16.248.249: 33
+216.58.209.138: 29
+216.58.210.74: 25
+192.168.1.254: 23
+196.55.215.54: 21
+216.58.209.142: 19
+216.58.210.67: 15
+35.186.224.25: 14
+8.8.4.4: 13
+20.54.110.119: 12
+162.125.69.19: 10
+108.177.127.189: 7
+91.98.102.37: 7
+35.186.224.47: 2
+145.239.13.147: 2
+54.213.188.123: 2
+173.194.76.188: 1
+34.98.74.57: 1
+Number of fragmented packets: 0
+The smallest packet size: 374
+The largest packet size: 1896
+The average packet size: 691.7281077770974
